@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: The assignment section includes the problem set files along with their
+  supporting files.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -69,7 +71,7 @@ ps5files.zip ({{% resource_link 68948a7e-40a1-7c89-73b0-57606aacf2f4 "ZIP" %}}) 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-Problem Set 6 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link d8d5be10-e119-0dd2-aca9-ccbce085a022 "PDF" %}})
+Problem Set 6 ({{% resource_link d8d5be10-e119-0dd2-aca9-ccbce085a022 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  
